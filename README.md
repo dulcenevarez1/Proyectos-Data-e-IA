@@ -3,10 +3,9 @@ Descripción
 Este proyecto tiene como objetivo analizar las ventas de AdventureWorks 2022 utilizando Power BI, proporcionando insights clave a través de KPI y visualizaciones interactivas.
 
 Estructura del Proyecto
-/data/ → Contiene los archivos de la base de datos (si aplica).
+/data/ → Contiene los archivos de la base de datos .
 /dashboard/ → Archivo .pbix con el dashboard en Power BI.
 /docs/ → Documentación adicional o reportes exportados.
-README.md → Este archivo con la descripción del proyecto.
 
  Objetivos del Proyecto
 Monitorear el desempeño de las ventas mediante KPI clave.
